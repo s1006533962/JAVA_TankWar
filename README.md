@@ -5,6 +5,7 @@ java坦克大战，适合于初学者的项目。
 1.先将项目clone到本地，或者直接使用idea工具clone过来。
 
 使用idea工具clone:
+https://github.com/s1006533962/JAVA_TankWar/blob/master/image/image-20201107151802323.png
 
 ![image-20201107151802323](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201107151802323.png)
 
